@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>delivery-box</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing-04" transform="translate(-372.000000, -42.000000)" fill="#D19E30" fill-rule="nonzero">
+            <g id="btn_marketplace" transform="translate(342.000000, 27.000000)">
+                <g id="icon+text" transform="translate(30.000000, 14.000000)">
+                    <g id="delivery-box" transform="translate(0.000000, 1.000000)">
+                        <path d="M12.09,1.44675 L3.92175,5.62875 L0.675,4.03125 L8.69925,0.069 C8.87925,-0.0225 9.09525,-0.0225 9.28425,0.069 L12.09,1.44675 Z" id="Path"></path>
+                        <polygon id="Path" points="17.316 4.03125 9.0045 8.14875 5.892 6.615 5.442 6.38625 13.61925 2.205 14.06925 2.433"></polygon>
+                        <path d="M8.3385,9.33525 L8.3295,18 L0.369,13.84575 C0.144,13.72725 -4.99600361e-16,13.4895 -4.99600361e-16,13.23375 L-4.99600361e-16,5.21775 L3.3735,6.87975 L3.3735,9.80175 C3.3735,10.176 3.6795,10.4865 4.0485,10.4865 C4.4175,10.4865 4.7235,10.176 4.7235,9.80175 L4.7235,7.5555 L5.1735,7.7745 L8.3385,9.33525 Z" id="Path"></path>
+                        <polygon id="Path" points="17.991 5.22675 9.6885 9.32625 9.6795 17.991 18 13.64625"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

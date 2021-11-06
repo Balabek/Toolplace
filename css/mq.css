@@ -1,0 +1,271 @@
+/*
+𝕄𝕖𝕕𝕚𝕒 ℚ𝕦𝕖𝕣𝕚𝕖𝕤
+*/
+
+/* !!!!!!!!!!!!!!!!!!!!!!!! */
+/* =========== XL & XXL for HEADER ========== */
+/* !!!!!!!!!!!!!!!!!!!!!!!! */
+
+@media screen and (min-width: 1600px){
+    h1.main_slogan {width: 75%;}
+    button.cta_btn_procurement {width: 220px;}
+    button.cta_btn_toolmaker {width: 220px;}
+}
+@media screen and (min-width: 1800px){
+    h1.main_slogan {width: 70%;}
+}
+@media screen and (min-width: 1900px){
+    h1.main_slogan {width: 68%;}
+}
+@media screen and (min-width: 2000px){
+    h1.main_slogan {width: 60%;}
+}
+@media screen and (min-width: 2200px){
+    h1.main_slogan {width: 45%;}
+}
+@media screen and (min-width: 2400px){
+    h1.main_slogan {width: 30%;}
+}
+@media screen and (min-width: 2800px){
+    h1.main_slogan {width: 42%;}
+}
+@media screen and (min-width: 4300px){
+    h1.main_slogan {width: 30%;}
+}
+@media screen and (min-width: 5000px){
+    h1.main_slogan {width: 22%;}
+}
+
+
+
+/* !!!!!!!!!!!!!!!!!!!!!!!! */
+/* =========== NAVIGATION ========== */
+/* !!!!!!!!!!!!!!!!!!!!!!!! */
+
+@media screen and (max-width: 991px) {
+    li.nav-item:nth-child(2){
+        margin-bottom: 18px;
+    }
+    li.nav-item:nth-child(3){
+        margin-bottom: 18px;
+    }
+    li.nav-item:last-child{
+        margin-bottom: 22px;
+    }
+
+    .navbar-nav {float: right;}
+    li.nav-item {text-align: right; margin-right: 0;}
+    li.nav-item:nth-child(3) {margin-right: 0;}
+}
+
+
+
+
+/* !!!!!!!!!!!!!!!!!!!!!!!! */
+/* =========== HEADER ========== */
+/* !!!!!!!!!!!!!!!!!!!!!!!! */
+
+@media screen and (max-width: 1370px){
+    h1.main_slogan {font-size: 3.8rem;}
+}
+
+@media screen and (max-width: 1299px){
+    .two_cta_buttons_holder {top: -58px;}
+    h1.main_slogan {font-size: 3.3rem;}
+}
+
+@media screen and (max-width: 1082px){
+    .two_cta_buttons_holder {top: -60px;}
+    h1.main_slogan {font-size: 3rem;}
+}
+
+@media screen and (max-width: 991px){
+    .two_cta_buttons_holder {top: -80px;}
+    h1.main_slogan {font-size: 2.6rem;}
+    button.cta_btn_procurement {width: 17%;}
+    button.cta_btn_toolmaker {width: 17%;}
+
+    button.nav_market_btn {left: -120px;}
+}
+
+@media screen and (max-width: 916px){
+    .banner_frame {width: 95vw; height: 410px;}
+
+    h1.main_slogan {font-size: 2.6rem;}
+    button.cta_btn_procurement {width: 20%;}
+    button.cta_btn_toolmaker {width: 20%;}
+}
+
+@media screen and (max-width: 816px){
+    .two_cta_buttons_holder {top: -100px;}
+
+    h1.main_slogan {font-size: 2.4rem;}
+    button.cta_btn_procurement {width: 22%;}
+    button.cta_btn_toolmaker {width: 22%;}
+}
+
+@media screen and (max-width: 790px){
+    .two_cta_buttons_holder {top: -100px; width: 55%;}
+
+    h1.main_slogan {font-size: 2.4rem;}
+    button.cta_btn_procurement {width: 86%; margin-right: 0; margin-bottom: 16px;}
+    button.cta_btn_toolmaker {width: 86%;}
+}
+
+@media screen and (max-width: 767px){
+    button.nav_market_btn {left: -14px;}
+}
+
+@media screen and (max-width: 622px){
+    .two_cta_buttons_holder {top: -120px;}
+
+    h1.main_slogan {font-size: 2rem;}
+    button.cta_btn_procurement {width: 83%;}
+    button.cta_btn_toolmaker {width: 83%;}
+}
+
+@media screen and (max-width: 516px){
+    .two_cta_buttons_holder {top: -130px;}
+
+    h1.main_slogan {font-size: 1.8rem;}
+    button.cta_btn_procurement {width: 83%;}
+    button.cta_btn_toolmaker {width: 83%;}
+}
+
+@media screen and (max-width: 470px){
+    .nav_logo {width: 75%;}
+    button.nav_market_btn {left: -40px; width: 125px;}
+}
+
+@media screen and (max-width: 412px){
+    .two_cta_buttons_holder {top: 0;}
+
+    h1.main_slogan {font-size: 2.3rem; width: 100%;}
+
+    .banner_frame {height: 300px; background-size: cover;}
+
+    button.cta_btn_procurement {width: 95%;}
+    button.cta_btn_toolmaker {width: 95%;}
+}
+
+@media screen and (max-width: 390px){
+    .nav_logo {width: 65%;}
+    button.nav_market_btn {left: -20%; font-size: 0.7rem; width: 94px;}
+}
+
+@media screen and (max-width: 359px){
+    button.nav_market_btn {display: none;}
+}
+
+@media screen and (max-width: 350px){
+    .two_cta_buttons_holder {width: 75%;}
+
+    h1.main_slogan {font-size: 2.1rem;}
+
+    button.cta_btn_procurement {width: 95%;}
+    button.cta_btn_toolmaker {width: 95%;}
+}
+
+
+
+
+
+/* !!!!!!!!!!!!!!!!!!!!!!!! */
+/* =========== COMING SOON ========== */
+/* !!!!!!!!!!!!!!!!!!!!!!!! */
+
+@media screen and (max-width: 991px){
+    input.toolplace_input {margin-bottom: 22px;}
+    .section_txt_holder {width: 95%;}
+}
+
+
+
+
+/* !!!!!!!!!!!!!!!!!!!!!!!! */
+/* =========== ABOUT ========== */
+/* !!!!!!!!!!!!!!!!!!!!!!!! */
+
+@media screen and (max-width: 1199px){
+    .founder_pic {height: 190px;}
+    ul.founder_facts li {font-size: 0.9rem;}
+}
+
+@media screen and (max-width: 991px){
+    .founder_pic {height: 300px;}
+    ul.founder_facts li {font-size: 1.1rem;}
+
+    ul.founder_facts {padding-top: 42px;}
+
+    .laptop_outermost {
+        margin: 0 auto;
+        width: 100%;
+        justify-items: center;
+        justify-content: center;
+        align-content: center;
+        text-align: center;
+        display: inherit;
+    }
+
+    .laptop {
+        height: 580px;
+    }
+}
+
+@media screen and (max-width: 810px) {
+    .laptop {
+        height: 500px;
+    }
+}
+
+@media screen and (max-width: 710px) {
+    .laptop {
+        height: 380px;
+    }
+}
+
+@media screen and (max-width: 540px) {
+    .laptop {
+        height: 800px;
+        right: -80%;
+    }
+}
+
+@media screen and (max-width: 440px) {
+    .laptop {
+        height: 690px;
+        right: -90%;
+    }
+}
+
+@media screen and (max-width: 360px) {
+    .laptop {
+        height: 650px;
+        right: -96%;
+    }
+}
+
+@media screen and (max-width: 330px) {
+    .laptop {
+        height: 610px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
