@@ -207,50 +207,24 @@
         display: inherit;
     }
 
-    .laptop {
-        height: 580px;
-    }
+    .toolplace_laptop {height: 500px;}
 }
 
-@media screen and (max-width: 810px) {
-    .laptop {
-        height: 500px;
-    }
+@media screen and (max-width: 767px){
+    .toolplace_laptop {height: 370px; right: 0;}
 }
 
-@media screen and (max-width: 710px) {
-    .laptop {
-        height: 380px;
-    }
+@media screen and (max-width: 530px){
+    .toolplace_laptop {height: 290px;}
 }
 
-@media screen and (max-width: 540px) {
-    .laptop {
-        height: 800px;
-        right: -80%;
-    }
+@media screen and (max-width: 420px){
+    .toolplace_laptop {height: 230px;}
 }
 
-@media screen and (max-width: 440px) {
-    .laptop {
-        height: 690px;
-        right: -90%;
-    }
+@media screen and (max-width: 340px){
+    .toolplace_laptop {height: 200px;}
 }
-
-@media screen and (max-width: 360px) {
-    .laptop {
-        height: 650px;
-        right: -96%;
-    }
-}
-
-@media screen and (max-width: 330px) {
-    .laptop {
-        height: 610px;
-    }
-}
-
 
 
 

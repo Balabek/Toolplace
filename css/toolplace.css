@@ -403,7 +403,6 @@ input.toolplace_input {
 input.toolplace_input:focus {
     border: 1px solid rgba(209, 158, 48, 0.25);
     box-shadow: 0 2px 414px 0 rgba(0,0,0,0.10);
-
 }
 
 button.subscriber_btn {
@@ -528,14 +527,16 @@ ul.founder_facts li:before {
     width: 1250px;
     height: 800px;
     right: 1%;
+    background: url("../img/toolaptop_2.png") center center no-repeat;
+    background-size: cover;
 }
 
-.laptop {
-    position: relative;
-    width: 1250px;
-    height: 800px;
-    right: 0;
-}
+/*.laptop {*/
+/*    position: relative;*/
+/*    width: 1250px;*/
+/*    height: 800px;*/
+/*    right: 0;*/
+/*}*/
 
 
 
